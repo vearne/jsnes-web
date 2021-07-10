@@ -19,6 +19,11 @@ const config = {
             name: "squirrel",
             description: "squirrel",
             url: "/roms/myrom/squirrel.nes"
+        },
+        myrom5: {
+            name: "super mario",
+            description: "mario",
+            url: "/roms/myrom/mario.nes"
         }
     },
     GOOGLE_ANALYTICS_CODE: process.env.REACT_APP_GOOGLE_ANALYTICS_CODE,
